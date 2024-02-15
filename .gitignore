@@ -51,3 +51,6 @@ nbdist/
 .nb-gradle/
 
 # End of https://www.toptal.com/developers/gitignore/api/freepascal,java,netbeans
+
+/examples/**/target/
+dependency-reduced-pom.xml
